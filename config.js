@@ -1,0 +1,4 @@
+const modules = [
+    'ABC',
+    'DEF'
+];
